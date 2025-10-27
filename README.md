@@ -9,7 +9,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/<你的GitHub用户名>/yolov8-realtime-detection.git
+git clone https://github.com/jituo2006/yolov8-realtime-detection.git
 cd yolov8-realtime-detection
 ```
 ### 2. 创建虚拟环境（可选）
