@@ -10,7 +10,7 @@
 ### 1. 克隆项目
 ```bash
 git clone https://github.com/jituo2006/smart-shelf-monitor.git
-cd yolov8-realtime-detection
+cd smart-shelf-monitor
 ```
 ### 2. 创建虚拟环境（可选）
 ```bash
