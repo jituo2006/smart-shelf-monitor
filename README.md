@@ -23,5 +23,5 @@ pip install -r requirements.txt
 ```
 ### 4. 运行程序
 ```bash
-python3 main.py
+python3 yolo_detect.py
 ```
